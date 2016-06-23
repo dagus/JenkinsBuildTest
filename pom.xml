@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Hello world</name>
   <description>Example project</description>
+  <packaging>war</packaging>
   <build>
 	  <plugins>
 			<plugin>
